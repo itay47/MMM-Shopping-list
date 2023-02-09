@@ -1,0 +1,22 @@
+{
+  "name": "mmm-shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping List module for MagicMirror2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itay47/MMM-Shopping-list.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "ShoppingList"
+  ],
+  "dpendencies": {
+    "node-fetch": "^3.3.0"
+  },  
+  "author": "Itay Shechter",
+  "license": "Apache-2.0 license",
+  "bugs": {
+    "url": "https://github.com/itay47/MMM-Shopping-list/issues"
+  },
+  "homepage": "https://github.com/itay47/MMM-Shopping-list#readme"
+}
